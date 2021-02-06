@@ -19,3 +19,6 @@ Windos 7
 
 The program works with Windows 10, but there are some problems with the registry paths on which the program is designed
 
+Youtube
+------------------
+https://www.youtube.com/watch?v=GUc6VavKtHQ&list=PL_siL1eojYzv-1lqXXSAQOlV-_fVtz1RZ&index=1&ab_channel=Dodjer
