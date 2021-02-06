@@ -13,7 +13,7 @@ Running
 -------
 The project must be run with the administrator to access to the Rigstry without problems
 
-Supported Browsers
+Supported Windos
 ------------------
 Windos 7
 
