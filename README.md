@@ -24,6 +24,10 @@ Windos 7
 
 The program works with Windows 10, but there are some problems with the registry paths on which the program is designed
 
+Releases
+-------
+https://github.com/Dodjer1993/RcC-Menu-tool/releases
+
 Youtube
 ------------------
 https://www.youtube.com/watch?v=GUc6VavKtHQ&ab_channel=Dodjer
@@ -43,6 +47,10 @@ https://www.youtube.com/watch?v=GUc6VavKtHQ&ab_channel=Dodjer
 مهم في استخدام المشروع
 ------------------
 يجب ان تشغل المشروع بصلاحيات الادمن لان الوصول للمسجلات يحتاج صلاحية ادمن 
+
+للتحميل
+-------
+https://github.com/Dodjer1993/RcC-Menu-tool/releases
 
 
 
