@@ -14,10 +14,6 @@ License
 -------
 The source code in this repo is licensed under the RcC-Menu-tool V1.
 
-Development
------------
-BlackBeard
-
 Running
 -------
 The project must be run with the administrator to access to the Rigstry without problems
